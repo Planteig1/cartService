@@ -7,7 +7,7 @@ This is a simple Flask-based microservice for managing a user's shopping cart. I
 1.  Clone this repository:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/Planteig1/cartService.git
     cd cart-service
     ```
 
